@@ -1,0 +1,22 @@
+#Wed May 13 02:21:28 KST 2026
+shaderPack=Solas Shader V3.4.zip
+antialiasingLevel=0
+normalMapEnabled=false
+specularMapEnabled=false
+renderResMul=1.0
+shadowResMul=1.0
+handDepthMul=0.125
+cloudShadow=false
+oldHandLight=default
+oldLighting=default
+tweakBlockDamage=false
+shadowClipFrustrum=true
+TexMinFilB=0
+TexMinFilN=0
+TexMinFilS=0
+TexMagFilB=0
+TexMagFilN=0
+TexMagFilS=0
+renderer=1.12.2
+blockID=1.12.2
+playerMood=1.12.2
