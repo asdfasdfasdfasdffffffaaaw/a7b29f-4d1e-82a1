@@ -5,7 +5,7 @@
       "id": "seongoo_island_main-1.12.2",
       "name": "seongoo_island_main (Minecraft 1.12.2)",
       "description": "seongoo_island_main Running Minecraft 1.12.2 (Forge v14.23.5.2864)",
-      "icon": null,
+      "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.19.4/Demo-1.19.4.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.12.2",
