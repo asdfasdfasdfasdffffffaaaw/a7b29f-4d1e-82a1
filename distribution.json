@@ -1,6 +1,5 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
   "servers": [
     {
       "id": "seongoo_island_main-1.12.2",
