@@ -4,13 +4,8 @@
     "version": "1.0.0",
     "name": "seongoo_island_main (Minecraft 1.12.2)",
     "description": "seongoo_island_main Running Minecraft 1.12.2 (Forge v14.23.5.2864)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "icon": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/icon.png",
     "address": "localhost:25565",
-    "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-    },
     "mainServer": false,
     "autoconnect": false
   },

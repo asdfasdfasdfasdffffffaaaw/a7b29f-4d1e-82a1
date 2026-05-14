@@ -5,7 +5,7 @@
       "id": "seongoo_island_main-1.12.2",
       "name": "seongoo_island_main (Minecraft 1.12.2)",
       "description": "seongoo_island_main Running Minecraft 1.12.2 (Forge v14.23.5.2864)",
-      "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.19.4/Demo-1.19.4.png",
+      "icon": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/icon.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.12.2",
@@ -243,6 +243,83 @@
               }
             }
           ]
+        },
+        {
+          "id": "dummy",
+          "name": "dummy",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/config/dummy",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/dummy"
+          }
+        },
+        {
+          "id": "Galmuri11-Bold.ttf",
+          "name": "Galmuri11-Bold.ttf",
+          "type": "File",
+          "artifact": {
+            "size": 2613512,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/Galmuri11-Bold.ttf",
+            "MD5": "951903e9b83ce9d05079aba86f3e1368",
+            "path": "Galmuri11-Bold.ttf"
+          }
+        },
+        {
+          "id": "dummy",
+          "name": "dummy",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/dummy",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "mods/dummy"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5755,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/options.txt",
+            "MD5": "c5ba5aaf050986d32ce6f5ed417cb3d1",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsof.txt",
+          "name": "optionsof.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1438,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/optionsof.txt",
+            "MD5": "af4a2abfb6d40750945d03773586058b",
+            "path": "optionsof.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 439,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/optionsshaders.txt",
+            "MD5": "dedaab2596c196b247f8cb85dc38caad",
+            "path": "optionsshaders.txt"
+          }
+        },
+        {
+          "id": "dummy",
+          "name": "dummy",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/shaderpacks/dummy",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "shaderpacks/dummy"
+          }
         }
       ]
     }
