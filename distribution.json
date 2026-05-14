@@ -17471,6 +17471,1315 @@
           }
         },
         {
+          "id": "!configanytime-3.0.jar",
+          "name": "!configanytime-3.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5201,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/!configanytime-3.0.jar",
+            "MD5": "3adfd6a9e04453888e68d858c0347ded",
+            "path": "mods/!configanytime-3.0.jar"
+          }
+        },
+        {
+          "id": "!mixinbooter-10.7.jar",
+          "name": "!mixinbooter-10.7.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2383999,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/!mixinbooter-10.7.jar",
+            "MD5": "a3221aff1677d5c4192efc43452bf37a",
+            "path": "mods/!mixinbooter-10.7.jar"
+          }
+        },
+        {
+          "id": "!Red-Core-MC-1.8-1.12-0.7.1.jar",
+          "name": "!Red-Core-MC-1.8-1.12-0.7.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 149374,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/!Red-Core-MC-1.8-1.12-0.7.1.jar",
+            "MD5": "ffbd41381a9340ca31d14fbb40f6ced9",
+            "path": "mods/!Red-Core-MC-1.8-1.12-0.7.1.jar"
+          }
+        },
+        {
+          "id": "1 EnchantingInfuserBackport-1.0.jar",
+          "name": "1 EnchantingInfuserBackport-1.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 109769,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/1%20EnchantingInfuserBackport-1.0.jar",
+            "MD5": "f5e91ebd4b7793c8b6aaeec3c698c1c6",
+            "path": "mods/1 EnchantingInfuserBackport-1.0.jar"
+          }
+        },
+        {
+          "id": "3dSkinLayers-forge-mc1.12.2-1.2.0.jar",
+          "name": "3dSkinLayers-forge-mc1.12.2-1.2.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1429429,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/3dSkinLayers-forge-mc1.12.2-1.2.0.jar",
+            "MD5": "184927de92c2b10d625db5a2718b2ac1",
+            "path": "mods/3dSkinLayers-forge-mc1.12.2-1.2.0.jar"
+          }
+        },
+        {
+          "id": "AdvancementPlaques-1.12.2-1.4.10.jar",
+          "name": "AdvancementPlaques-1.12.2-1.4.10.jar",
+          "type": "File",
+          "artifact": {
+            "size": 195623,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/AdvancementPlaques-1.12.2-1.4.10.jar",
+            "MD5": "d3ca482ca0ecd0609fa2dc2cf308070c",
+            "path": "mods/AdvancementPlaques-1.12.2-1.4.10.jar"
+          }
+        },
+        {
+          "id": "Alfheim-1.6.jar",
+          "name": "Alfheim-1.6.jar",
+          "type": "File",
+          "artifact": {
+            "size": 70512,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Alfheim-1.6.jar",
+            "MD5": "07e2884b1c7f91022d05070e479dbf39",
+            "path": "mods/Alfheim-1.6.jar"
+          }
+        },
+        {
+          "id": "ancientbeasts-1.9.99999.jar",
+          "name": "ancientbeasts-1.9.99999.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4556054,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/ancientbeasts-1.9.99999.jar",
+            "MD5": "ae21bc193e0422d532ef88ed16bb6289",
+            "path": "mods/ancientbeasts-1.9.99999.jar"
+          }
+        },
+        {
+          "id": "AppleSkin 1.0.14.jar",
+          "name": "AppleSkin 1.0.14.jar",
+          "type": "File",
+          "artifact": {
+            "size": 33683,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/AppleSkin%201.0.14.jar",
+            "MD5": "b435860d5cfa23bc53d3b8e120be91d4",
+            "path": "mods/AppleSkin 1.0.14.jar"
+          }
+        },
+        {
+          "id": "AquaAcrobatics-1.15.4.jar",
+          "name": "AquaAcrobatics-1.15.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 182194,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/AquaAcrobatics-1.15.4.jar",
+            "MD5": "75fd7a3e86e22a2c546796cdc6621eb4",
+            "path": "mods/AquaAcrobatics-1.15.4.jar"
+          }
+        },
+        {
+          "id": "Aquaculture 1.6.8.jar",
+          "name": "Aquaculture 1.6.8.jar",
+          "type": "File",
+          "artifact": {
+            "size": 188084,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Aquaculture%201.6.8.jar",
+            "MD5": "05b32c4ee7abf98877130f2a59b48dcc",
+            "path": "mods/Aquaculture 1.6.8.jar"
+          }
+        },
+        {
+          "id": "arcademod 2.1.5.jar",
+          "name": "arcademod 2.1.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 846336,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/arcademod%202.1.5.jar",
+            "MD5": "6803d6f25411ef4df4e44390b0b382d5",
+            "path": "mods/arcademod 2.1.5.jar"
+          }
+        },
+        {
+          "id": "betteranimalsplus 9.0.1.jar",
+          "name": "betteranimalsplus 9.0.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 8230051,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/betteranimalsplus%209.0.1.jar",
+            "MD5": "9017cfb0f8eac27b6461c97af1ede0d8",
+            "path": "mods/betteranimalsplus 9.0.1.jar"
+          }
+        },
+        {
+          "id": "betterchat-2.0.2.jar",
+          "name": "betterchat-2.0.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 184341,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/betterchat-2.0.2.jar",
+            "MD5": "b846ad6fd5e7466ba30e04075594e16e",
+            "path": "mods/betterchat-2.0.2.jar"
+          }
+        },
+        {
+          "id": "Blur 1.0.4.jar",
+          "name": "Blur 1.0.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 16146,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Blur%201.0.4.jar",
+            "MD5": "fe6c57af5be36a9ed96f8ff7de61bbd1",
+            "path": "mods/Blur 1.0.4.jar"
+          }
+        },
+        {
+          "id": "cameraoverhaul-v2.0.6.3-vintage (1).jar",
+          "name": "cameraoverhaul-v2.0.6.3-vintage (1).jar",
+          "type": "File",
+          "artifact": {
+            "size": 784826,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/cameraoverhaul-v2.0.6.3-vintage%20(1).jar",
+            "MD5": "60efd4597785d13b9bbd5f4e88c8c7e7",
+            "path": "mods/cameraoverhaul-v2.0.6.3-vintage (1).jar"
+          }
+        },
+        {
+          "id": "Castleblade 0.0.8595.jar",
+          "name": "Castleblade 0.0.8595.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2313971,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Castleblade%200.0.8595.jar",
+            "MD5": "03345e5c902d03e5d159b12b833eab5e",
+            "path": "mods/Castleblade 0.0.8595.jar"
+          }
+        },
+        {
+          "id": "chameleon-1.2.2.jar",
+          "name": "chameleon-1.2.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 119345,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/chameleon-1.2.2.jar",
+            "MD5": "28643ae1392c3df6a3a3a41041afb0a0",
+            "path": "mods/chameleon-1.2.2.jar"
+          }
+        },
+        {
+          "id": "Cherry_on-1.12.2-1.3.31.jar",
+          "name": "Cherry_on-1.12.2-1.3.31.jar",
+          "type": "File",
+          "artifact": {
+            "size": 11739372,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Cherry_on-1.12.2-1.3.31.jar",
+            "MD5": "5e6e2f2859d878d115ed2292d28140b8",
+            "path": "mods/Cherry_on-1.12.2-1.3.31.jar"
+          }
+        },
+        {
+          "id": "chunkloaders-1.2.8b.jar",
+          "name": "chunkloaders-1.2.8b.jar",
+          "type": "File",
+          "artifact": {
+            "size": 152378,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/chunkloaders-1.2.8b.jar",
+            "MD5": "78c4c657c8ab41cc1dfd7106600dd2d9",
+            "path": "mods/chunkloaders-1.2.8b.jar"
+          }
+        },
+        {
+          "id": "Cobble-Gen-Haters-1.0.jar",
+          "name": "Cobble-Gen-Haters-1.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6520,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Cobble-Gen-Haters-1.0.jar",
+            "MD5": "6b585f37f98ad805a31ffd8ed384a354",
+            "path": "mods/Cobble-Gen-Haters-1.0.jar"
+          }
+        },
+        {
+          "id": "compactf3plus-1.1.2-forge-1.12.2.jar",
+          "name": "compactf3plus-1.1.2-forge-1.12.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 24877,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/compactf3plus-1.1.2-forge-1.12.2.jar",
+            "MD5": "1c151fd2e37ce1a2af2c97577ea5e2b2",
+            "path": "mods/compactf3plus-1.1.2-forge-1.12.2.jar"
+          }
+        },
+        {
+          "id": "CookingForBlockheads 6.5.0.jar",
+          "name": "CookingForBlockheads 6.5.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 595301,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/CookingForBlockheads%206.5.0.jar",
+            "MD5": "f1067937f350aba63a80089093b66724",
+            "path": "mods/CookingForBlockheads 6.5.0.jar"
+          }
+        },
+        {
+          "id": "CoralReef 2.5.jar",
+          "name": "CoralReef 2.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 73465,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/CoralReef%202.5.jar",
+            "MD5": "c6eb6d2f4417b231b88a71633f9ea211",
+            "path": "mods/CoralReef 2.5.jar"
+          }
+        },
+        {
+          "id": "CosmeticArmorReworked 5a.jar",
+          "name": "CosmeticArmorReworked 5a.jar",
+          "type": "File",
+          "artifact": {
+            "size": 71625,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/CosmeticArmorReworked%205a.jar",
+            "MD5": "88e8100f0344bf73d9d09f70bb63b85b",
+            "path": "mods/CosmeticArmorReworked 5a.jar"
+          }
+        },
+        {
+          "id": "Cucumber-1.12.2-1.1.3.jar",
+          "name": "Cucumber-1.12.2-1.1.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 126699,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Cucumber-1.12.2-1.1.3.jar",
+            "MD5": "0018d8de31b05dc44c80a25d73fde15b",
+            "path": "mods/Cucumber-1.12.2-1.1.3.jar"
+          }
+        },
+        {
+          "id": "CustomMainMenu 2.0.9.1.jar",
+          "name": "CustomMainMenu 2.0.9.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 13015665,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/CustomMainMenu%202.0.9.1.jar",
+            "MD5": "b774b633faf692d481a18c0db7650650",
+            "path": "mods/CustomMainMenu 2.0.9.1.jar"
+          }
+        },
+        {
+          "id": "CustomMobSpawner 3.11.5.jar",
+          "name": "CustomMobSpawner 3.11.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 722270,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/CustomMobSpawner%203.11.5.jar",
+            "MD5": "fec50567081c942dfab330a60aac695a",
+            "path": "mods/CustomMobSpawner 3.11.5.jar"
+          }
+        },
+        {
+          "id": "CustomNPCs 1.12.2.jar",
+          "name": "CustomNPCs 1.12.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 12140772,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/CustomNPCs%201.12.2.jar",
+            "MD5": "0b809329a569b2e3946c54b868ed431b",
+            "path": "mods/CustomNPCs 1.12.2.jar"
+          }
+        },
+        {
+          "id": "Drones 0.3.1.jar",
+          "name": "Drones 0.3.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 344798,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Drones%200.3.1.jar",
+            "MD5": "754f12b340fc814933bfc57a6e6e04e4",
+            "path": "mods/Drones 0.3.1.jar"
+          }
+        },
+        {
+          "id": "drpcore-1.12.2-0.4.8 (1).jar",
+          "name": "drpcore-1.12.2-0.4.8 (1).jar",
+          "type": "File",
+          "artifact": {
+            "size": 1075472,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/drpcore-1.12.2-0.4.8%20(1).jar",
+            "MD5": "5425b06103cbce9ff1abddb6ad8ea5c9",
+            "path": "mods/drpcore-1.12.2-0.4.8 (1).jar"
+          }
+        },
+        {
+          "id": "drpmedieval-1.12.2-0.3.6 (1).jar",
+          "name": "drpmedieval-1.12.2-0.3.6 (1).jar",
+          "type": "File",
+          "artifact": {
+            "size": 5575065,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/drpmedieval-1.12.2-0.3.6%20(1).jar",
+            "MD5": "d65b3f37ed9a9cec5d607ccd8ed67a7c",
+            "path": "mods/drpmedieval-1.12.2-0.3.6 (1).jar"
+          }
+        },
+        {
+          "id": "dsurround-1.12.2-0.1.0.jar",
+          "name": "dsurround-1.12.2-0.1.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 14910602,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/dsurround-1.12.2-0.1.0.jar",
+            "MD5": "d09e29309d8a8fc0d430122fc0380a22",
+            "path": "mods/dsurround-1.12.2-0.1.0.jar"
+          }
+        },
+        {
+          "id": "edible bugs 1.6.0.2512.jar",
+          "name": "edible bugs 1.6.0.2512.jar",
+          "type": "File",
+          "artifact": {
+            "size": 393995,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/edible%20bugs%201.6.0.2512.jar",
+            "MD5": "8d31684d287fa0f850a2017397d14c2f",
+            "path": "mods/edible bugs 1.6.0.2512.jar"
+          }
+        },
+        {
+          "id": "emoticons-1.1.2-1.12.2.jar",
+          "name": "emoticons-1.1.2-1.12.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2050228,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/emoticons-1.1.2-1.12.2.jar",
+            "MD5": "3be77b015d89b68a086adc9338458a1f",
+            "path": "mods/emoticons-1.1.2-1.12.2.jar"
+          }
+        },
+        {
+          "id": "EntityCulling-1.12.2-6.5.0.jar",
+          "name": "EntityCulling-1.12.2-6.5.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 63926,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/EntityCulling-1.12.2-6.5.0.jar",
+            "MD5": "ffa73c080aa5f7abf086a9472f07b8c1",
+            "path": "mods/EntityCulling-1.12.2-6.5.0.jar"
+          }
+        },
+        {
+          "id": "entitydistance-1.0.3.jar",
+          "name": "entitydistance-1.0.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 993991,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/entitydistance-1.0.3.jar",
+            "MD5": "e2428477a58b63b040394349d30ce8d1",
+            "path": "mods/entitydistance-1.0.3.jar"
+          }
+        },
+        {
+          "id": "epicdeathscreen-forge-1.12.2-1.0.0.jar",
+          "name": "epicdeathscreen-forge-1.12.2-1.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1490738,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/epicdeathscreen-forge-1.12.2-1.0.0.jar",
+            "MD5": "6aa9bf375565ad3257094b1cee5a5b80",
+            "path": "mods/epicdeathscreen-forge-1.12.2-1.0.0.jar"
+          }
+        },
+        {
+          "id": "EquipmentCompare 1.3.4.jar",
+          "name": "EquipmentCompare 1.3.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 905083,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/EquipmentCompare%201.3.4.jar",
+            "MD5": "c991805836fde7d608ee53299e483510",
+            "path": "mods/EquipmentCompare 1.3.4.jar"
+          }
+        },
+        {
+          "id": "FantasticLib-1.12.2.068.jar",
+          "name": "FantasticLib-1.12.2.068.jar",
+          "type": "File",
+          "artifact": {
+            "size": 711133,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/FantasticLib-1.12.2.068.jar",
+            "MD5": "329ead7640862105d827cf8bb54d8bf9",
+            "path": "mods/FantasticLib-1.12.2.068.jar"
+          }
+        },
+        {
+          "id": "Farming in Rain 1.5.1.jar",
+          "name": "Farming in Rain 1.5.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 13711,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Farming%20in%20Rain%201.5.1.jar",
+            "MD5": "8295a48ec14a9b0b5a4e6f52ac85d8b7",
+            "path": "mods/Farming in Rain 1.5.1.jar"
+          }
+        },
+        {
+          "id": "Fish's Undead Rising-1.5.2 (1).jar",
+          "name": "Fish's Undead Rising-1.5.2 (1).jar",
+          "type": "File",
+          "artifact": {
+            "size": 8901801,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Fish's%20Undead%20Rising-1.5.2%20(1).jar",
+            "MD5": "40f2da9438c858234f1909d02eb03e30",
+            "path": "mods/Fish's Undead Rising-1.5.2 (1).jar"
+          }
+        },
+        {
+          "id": "flare-0.7.0.jar",
+          "name": "flare-0.7.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2345089,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/flare-0.7.0.jar",
+            "MD5": "60bf1b76ddc9ce88b6c719417e4de23c",
+            "path": "mods/flare-0.7.0.jar"
+          }
+        },
+        {
+          "id": "Fluidlogged-API-v2.2.7-mc1.12.2.jar",
+          "name": "Fluidlogged-API-v2.2.7-mc1.12.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 367562,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Fluidlogged-API-v2.2.7-mc1.12.2.jar",
+            "MD5": "1468eac97541e613cb21ce308b6fcacf",
+            "path": "mods/Fluidlogged-API-v2.2.7-mc1.12.2.jar"
+          }
+        },
+        {
+          "id": "forgeautofish-1.0.4-1.12.2.jar",
+          "name": "forgeautofish-1.0.4-1.12.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 86200,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/forgeautofish-1.0.4-1.12.2.jar",
+            "MD5": "a98cfb60109562137c4741293c345c5d",
+            "path": "mods/forgeautofish-1.0.4-1.12.2.jar"
+          }
+        },
+        {
+          "id": "Forgelin-Continuous-2.0.0.1.jar",
+          "name": "Forgelin-Continuous-2.0.0.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 7056006,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Forgelin-Continuous-2.0.0.1.jar",
+            "MD5": "18a8164d85a98ec7a59261c96cdb458b",
+            "path": "mods/Forgelin-Continuous-2.0.0.1.jar"
+          }
+        },
+        {
+          "id": "fossilsarcheology-8.0.6.jar",
+          "name": "fossilsarcheology-8.0.6.jar",
+          "type": "File",
+          "artifact": {
+            "size": 47300238,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/fossilsarcheology-8.0.6.jar",
+            "MD5": "89b94c886fb926e62d29ce60a2d002a8",
+            "path": "mods/fossilsarcheology-8.0.6.jar"
+          }
+        },
+        {
+          "id": "furniture 6.3.2.jar",
+          "name": "furniture 6.3.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2439199,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/furniture%206.3.2.jar",
+            "MD5": "c337d9b9b5465ba6ac78a2ca9f3dbf7c",
+            "path": "mods/furniture 6.3.2.jar"
+          }
+        },
+        {
+          "id": "GamemodeSwitcher 1.0.jar",
+          "name": "GamemodeSwitcher 1.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 26171,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/GamemodeSwitcher%201.0.jar",
+            "MD5": "9d176da78aea052c98bcdeef041eae47",
+            "path": "mods/GamemodeSwitcher 1.0.jar"
+          }
+        },
+        {
+          "id": "gnetum-1.4.1.jar",
+          "name": "gnetum-1.4.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 121313,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/gnetum-1.4.1.jar",
+            "MD5": "971934df74013a911d8bd231c0f13200",
+            "path": "mods/gnetum-1.4.1.jar"
+          }
+        },
+        {
+          "id": "Grimoire Of Gaia 1.7.2.jar",
+          "name": "Grimoire Of Gaia 1.7.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3665316,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Grimoire%20Of%20Gaia%201.7.2.jar",
+            "MD5": "93090f7f245c80626e583cf43fd7da42",
+            "path": "mods/Grimoire Of Gaia 1.7.2.jar"
+          }
+        },
+        {
+          "id": "GroundItemHighlighting-1.12.2.005.jar",
+          "name": "GroundItemHighlighting-1.12.2.005.jar",
+          "type": "File",
+          "artifact": {
+            "size": 11033,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/GroundItemHighlighting-1.12.2.005.jar",
+            "MD5": "a83ca2c97bdc9fb92a25b31084cb44d0",
+            "path": "mods/GroundItemHighlighting-1.12.2.005.jar"
+          }
+        },
+        {
+          "id": "GrowableOres-3.0.0-1.12.2-Forge.jar",
+          "name": "GrowableOres-3.0.0-1.12.2-Forge.jar",
+          "type": "File",
+          "artifact": {
+            "size": 658429,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/GrowableOres-3.0.0-1.12.2-Forge.jar",
+            "MD5": "0d18adca151e90752de4eeaa1d0f28c1",
+            "path": "mods/GrowableOres-3.0.0-1.12.2-Forge.jar"
+          }
+        },
+        {
+          "id": "HadEnoughItems 4.25.4.jar",
+          "name": "HadEnoughItems 4.25.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 687620,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/HadEnoughItems%204.25.4.jar",
+            "MD5": "506b595bf76f4125d91d5d22b1e5701f",
+            "path": "mods/HadEnoughItems 4.25.4.jar"
+          }
+        },
+        {
+          "id": "Highlighter 1.1.7.jar",
+          "name": "Highlighter 1.1.7.jar",
+          "type": "File",
+          "artifact": {
+            "size": 990479,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Highlighter%201.1.7.jar",
+            "MD5": "8ffac2f2aa769f6aba30951d8c19094f",
+            "path": "mods/Highlighter 1.1.7.jar"
+          }
+        },
+        {
+          "id": "Horror_elements_mod_1.5.2_1.12.2.jar",
+          "name": "Horror_elements_mod_1.5.2_1.12.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 20546281,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Horror_elements_mod_1.5.2_1.12.2.jar",
+            "MD5": "f8a1de5fadf0b31cc6063f90ec66e54e",
+            "path": "mods/Horror_elements_mod_1.5.2_1.12.2.jar"
+          }
+        },
+        {
+          "id": "Infinity-Water-Bucket-1.12.2-2.0.0.jar",
+          "name": "Infinity-Water-Bucket-1.12.2-2.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1000992,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Infinity-Water-Bucket-1.12.2-2.0.0.jar",
+            "MD5": "5dda1e1a95a52dc36f9c74c1d4034a62",
+            "path": "mods/Infinity-Water-Bucket-1.12.2-2.0.0.jar"
+          }
+        },
+        {
+          "id": "itemzoom_1.12.2-1.11.jar",
+          "name": "itemzoom_1.12.2-1.11.jar",
+          "type": "File",
+          "artifact": {
+            "size": 21336,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/itemzoom_1.12.2-1.11.jar",
+            "MD5": "b1561486f9cdc305c50a7b7237b4317c",
+            "path": "mods/itemzoom_1.12.2-1.11.jar"
+          }
+        },
+        {
+          "id": "llibrary 1.7.20.jar",
+          "name": "llibrary 1.7.20.jar",
+          "type": "File",
+          "artifact": {
+            "size": 884550,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/llibrary%201.7.20.jar",
+            "MD5": "218aefca8bd6bb8d9ff7dd877c1d277d",
+            "path": "mods/llibrary 1.7.20.jar"
+          }
+        },
+        {
+          "id": "loliasm-5.31.jar",
+          "name": "loliasm-5.31.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1659628,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/loliasm-5.31.jar",
+            "MD5": "5897f0ebb3690bf7d28ebce8a508b751",
+            "path": "mods/loliasm-5.31.jar"
+          }
+        },
+        {
+          "id": "lycanitesmobs-1.12.2-2.0.8.10.jar",
+          "name": "lycanitesmobs-1.12.2-2.0.8.10.jar",
+          "type": "File",
+          "artifact": {
+            "size": 58610050,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/lycanitesmobs-1.12.2-2.0.8.10.jar",
+            "MD5": "bb3651ab7a6481c8355abd8bcc8bbe3b",
+            "path": "mods/lycanitesmobs-1.12.2-2.0.8.10.jar"
+          }
+        },
+        {
+          "id": "materialchanger1.0.3-1.12.2.jar",
+          "name": "materialchanger1.0.3-1.12.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 13249,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/materialchanger1.0.3-1.12.2.jar",
+            "MD5": "a9f216c5b177ee6c9323d7a03cd0bbe7",
+            "path": "mods/materialchanger1.0.3-1.12.2.jar"
+          }
+        },
+        {
+          "id": "mclib-2.4.3-1.12.2.jar",
+          "name": "mclib-2.4.3-1.12.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 767461,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/mclib-2.4.3-1.12.2.jar",
+            "MD5": "99926b655d86cc15823ec350138bf27e",
+            "path": "mods/mclib-2.4.3-1.12.2.jar"
+          }
+        },
+        {
+          "id": "metamorph-1.4-1.12.2.jar",
+          "name": "metamorph-1.4-1.12.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 421252,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/metamorph-1.4-1.12.2.jar",
+            "MD5": "e54a9cd422bb876fd4805486198520b3",
+            "path": "mods/metamorph-1.4-1.12.2.jar"
+          }
+        },
+        {
+          "id": "MineMenu-1.12.2-1.6.11-universal.jar",
+          "name": "MineMenu-1.12.2-1.6.11-universal.jar",
+          "type": "File",
+          "artifact": {
+            "size": 226460,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/MineMenu-1.12.2-1.6.11-universal.jar",
+            "MD5": "4fade291993467f426a0b6f948c4a6b6",
+            "path": "mods/MineMenu-1.12.2-1.6.11-universal.jar"
+          }
+        },
+        {
+          "id": "MiniEffects-1.12.2-1.0.1.jar",
+          "name": "MiniEffects-1.12.2-1.0.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 978490,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/MiniEffects-1.12.2-1.0.1.jar",
+            "MD5": "d7815cdfb12f2443cf64eb67c235487a",
+            "path": "mods/MiniEffects-1.12.2-1.0.1.jar"
+          }
+        },
+        {
+          "id": "MmmMmmMmmMmm-1.12-1.14.jar",
+          "name": "MmmMmmMmmMmm-1.12-1.14.jar",
+          "type": "File",
+          "artifact": {
+            "size": 56472,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/MmmMmmMmmMmm-1.12-1.14.jar",
+            "MD5": "af2b15ab6fcef63a5314ed13f7e519c9",
+            "path": "mods/MmmMmmMmmMmm-1.12-1.14.jar"
+          }
+        },
+        {
+          "id": "MoCreatures 12.0.5.jar",
+          "name": "MoCreatures 12.0.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 14593310,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/MoCreatures%2012.0.5.jar",
+            "MD5": "3e69917b36f8fa6014a7bdef78b34a65",
+            "path": "mods/MoCreatures 12.0.5.jar"
+          }
+        },
+        {
+          "id": "modid-1.0.jar",
+          "name": "modid-1.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 455639,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/modid-1.0.jar",
+            "MD5": "2389d426fe97835f1865264b5cf9be7f",
+            "path": "mods/modid-1.0.jar"
+          }
+        },
+        {
+          "id": "MoreArmor-1-3-5.jar",
+          "name": "MoreArmor-1-3-5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 600599,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/MoreArmor-1-3-5.jar",
+            "MD5": "23742ce06eb282eadd2c041ae04d5358",
+            "path": "mods/MoreArmor-1-3-5.jar"
+          }
+        },
+        {
+          "id": "mowziesmobs_1.12.2_1.5.8.jar",
+          "name": "mowziesmobs_1.12.2_1.5.8.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5187073,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/mowziesmobs_1.12.2_1.5.8.jar",
+            "MD5": "4d29d7ed060c33b7cfea54d799016969",
+            "path": "mods/mowziesmobs_1.12.2_1.5.8.jar"
+          }
+        },
+        {
+          "id": "naughthirium-2.3.0.jar",
+          "name": "naughthirium-2.3.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 61250,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/naughthirium-2.3.0.jar",
+            "MD5": "0cba4c0eb48a9a8a4ba371788cec15e7",
+            "path": "mods/naughthirium-2.3.0.jar"
+          }
+        },
+        {
+          "id": "NefsMedievalPub 0.9.jar",
+          "name": "NefsMedievalPub 0.9.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3685608,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/NefsMedievalPub%200.9.jar",
+            "MD5": "2e428df16eeeec997005ddf21ecefbc4",
+            "path": "mods/NefsMedievalPub 0.9.jar"
+          }
+        },
+        {
+          "id": "neverenoughanimations-1.0.7.jar",
+          "name": "neverenoughanimations-1.0.7.jar",
+          "type": "File",
+          "artifact": {
+            "size": 99609,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/neverenoughanimations-1.0.7.jar",
+            "MD5": "d8d40b3dc3dbd783798cbd9b3d80af3f",
+            "path": "mods/neverenoughanimations-1.0.7.jar"
+          }
+        },
+        {
+          "id": "New Fantasy Additions v5.9993.jar",
+          "name": "New Fantasy Additions v5.9993.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3825176,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/New%20Fantasy%20Additions%20v5.9993.jar",
+            "MD5": "6efeff2fcbad82af4854d8f4845f711f",
+            "path": "mods/New Fantasy Additions v5.9993.jar"
+          }
+        },
+        {
+          "id": "nodami-1.12.2-1.3.1.jar",
+          "name": "nodami-1.12.2-1.3.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 8972,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/nodami-1.12.2-1.3.1.jar",
+            "MD5": "ea9d225a84df5a564499de13c74454af",
+            "path": "mods/nodami-1.12.2-1.3.1.jar"
+          }
+        },
+        {
+          "id": "noRecipeBook 1.2.2.jar",
+          "name": "noRecipeBook 1.2.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4053,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/noRecipeBook%201.2.2.jar",
+            "MD5": "c4fa33c05a45db33c5dd0fa6bec82c61",
+            "path": "mods/noRecipeBook 1.2.2.jar"
+          }
+        },
+        {
+          "id": "Nothirium-1.12.2-0.4.9-beta.jar",
+          "name": "Nothirium-1.12.2-0.4.9-beta.jar",
+          "type": "File",
+          "artifact": {
+            "size": 208286,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Nothirium-1.12.2-0.4.9-beta.jar",
+            "MD5": "e85f6ee932c3ab8057ea67c8d3059599",
+            "path": "mods/Nothirium-1.12.2-0.4.9-beta.jar"
+          }
+        },
+        {
+          "id": "OceanicExpanse-1.2.1.jar",
+          "name": "OceanicExpanse-1.2.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6349992,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/OceanicExpanse-1.2.1.jar",
+            "MD5": "4fb598bb280dcc298734198a3048be05",
+            "path": "mods/OceanicExpanse-1.2.1.jar"
+          }
+        },
+        {
+          "id": "OffHandBanning-forge-1.12.2-0.1.0.jar",
+          "name": "OffHandBanning-forge-1.12.2-0.1.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 16951,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/OffHandBanning-forge-1.12.2-0.1.0.jar",
+            "MD5": "5b08f78dac12477bb9256db8b341257b",
+            "path": "mods/OffHandBanning-forge-1.12.2-0.1.0.jar"
+          }
+        },
+        {
+          "id": "OptiFine_1.12.2_HD_U_G6_pre1.jar",
+          "name": "OptiFine_1.12.2_HD_U_G6_pre1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2668221,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/OptiFine_1.12.2_HD_U_G6_pre1.jar",
+            "MD5": "9ee4100b8d430f8c8aa82e6f3b13b87e",
+            "path": "mods/OptiFine_1.12.2_HD_U_G6_pre1.jar"
+          }
+        },
+        {
+          "id": "OptiNotFine-1.0.jar",
+          "name": "OptiNotFine-1.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 20171,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/OptiNotFine-1.0.jar",
+            "MD5": "fd5b3c768316c2bf424b8a5430e7baf0",
+            "path": "mods/OptiNotFine-1.0.jar"
+          }
+        },
+        {
+          "id": "OreLib 3.6.0.1.jar",
+          "name": "OreLib 3.6.0.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 341728,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/OreLib%203.6.0.1.jar",
+            "MD5": "00cce3b240365458adcad3e77782358a",
+            "path": "mods/OreLib 3.6.0.1.jar"
+          }
+        },
+        {
+          "id": "PacketFixer-forge-2.1.0.jar",
+          "name": "PacketFixer-forge-2.1.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 15287,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/PacketFixer-forge-2.1.0.jar",
+            "MD5": "d8d35149828826ca3194d88a30a547a5",
+            "path": "mods/PacketFixer-forge-2.1.0.jar"
+          }
+        },
+        {
+          "id": "Pam's HarvestCraft.jar",
+          "name": "Pam's HarvestCraft.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6976273,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Pam's%20HarvestCraft.jar",
+            "MD5": "693feb0a62113ce243b0a0341f24b45a",
+            "path": "mods/Pam's HarvestCraft.jar"
+          }
+        },
+        {
+          "id": "particleculling 1.4.2.jar",
+          "name": "particleculling 1.4.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 17012,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/particleculling%201.4.2.jar",
+            "MD5": "9828741d28e548e7d40c4e8c077b06f7",
+            "path": "mods/particleculling 1.4.2.jar"
+          }
+        },
+        {
+          "id": "particlerain-0.1.7.jar",
+          "name": "particlerain-0.1.7.jar",
+          "type": "File",
+          "artifact": {
+            "size": 483565,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/particlerain-0.1.7.jar",
+            "MD5": "ef7edfe69bc36da0b060fb89e1bf685e",
+            "path": "mods/particlerain-0.1.7.jar"
+          }
+        },
+        {
+          "id": "preventghost 1.0.0.jar",
+          "name": "preventghost 1.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 41565,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/preventghost%201.0.0.jar",
+            "MD5": "0ef38a1e63a520f4386b70d6a0749895",
+            "path": "mods/preventghost 1.0.0.jar"
+          }
+        },
+        {
+          "id": "PTRLib 1.0.5.jar",
+          "name": "PTRLib 1.0.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 169749,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/PTRLib%201.0.5.jar",
+            "MD5": "7376e09acb5d531d28cb4d28a7f190fd",
+            "path": "mods/PTRLib 1.0.5.jar"
+          }
+        },
+        {
+          "id": "rebindnarrator-1.0.jar",
+          "name": "rebindnarrator-1.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 7608,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/rebindnarrator-1.0.jar",
+            "MD5": "db9720e0781c5779681f8e7b41f8f291",
+            "path": "mods/rebindnarrator-1.0.jar"
+          }
+        },
+        {
+          "id": "redirectionor-1.9.for.1.12.2-1.8.8.jar",
+          "name": "redirectionor-1.9.for.1.12.2-1.8.8.jar",
+          "type": "File",
+          "artifact": {
+            "size": 123182,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/redirectionor-1.9.for.1.12.2-1.8.8.jar",
+            "MD5": "cf289b6463afe6bdfaa30673e1ca9c6c",
+            "path": "mods/redirectionor-1.9.for.1.12.2-1.8.8.jar"
+          }
+        },
+        {
+          "id": "Reliquary-1.12.2-1.3.4.796.jar",
+          "name": "Reliquary-1.12.2-1.3.4.796.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1232459,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Reliquary-1.12.2-1.3.4.796.jar",
+            "MD5": "7e283f869270a28ace816e6e196403b9",
+            "path": "mods/Reliquary-1.12.2-1.3.4.796.jar"
+          }
+        },
+        {
+          "id": "RenderLib-1.12.2-1.4.5.jar",
+          "name": "RenderLib-1.12.2-1.4.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 290334,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/RenderLib-1.12.2-1.4.5.jar",
+            "MD5": "c1d26d4946edd4f13543381bb368a358",
+            "path": "mods/RenderLib-1.12.2-1.4.5.jar"
+          }
+        },
+        {
+          "id": "rustic-1.2.0.jar",
+          "name": "rustic-1.2.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1487474,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/rustic-1.2.0.jar",
+            "MD5": "729217eb231e84a027173f9f9606688b",
+            "path": "mods/rustic-1.2.0.jar"
+          }
+        },
+        {
+          "id": "seongoo_custom-0.0.jar",
+          "name": "seongoo_custom-0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 118035,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/seongoo_custom-0.0.jar",
+            "MD5": "4992319e1bb6940702a3aff21f67d38a",
+            "path": "mods/seongoo_custom-0.0.jar"
+          }
+        },
+        {
+          "id": "seongoo_gravity-0.0.jar",
+          "name": "seongoo_gravity-0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 64783,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/seongoo_gravity-0.0.jar",
+            "MD5": "3d30a86df8e70213ae9b201887c309c4",
+            "path": "mods/seongoo_gravity-0.0.jar"
+          }
+        },
+        {
+          "id": "seongoo_loadingbar-1.12.2-0.0.jar",
+          "name": "seongoo_loadingbar-1.12.2-0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 31086,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/seongoo_loadingbar-1.12.2-0.0.jar",
+            "MD5": "99ee01d2b7b657fe6bb8ad78179b31ef",
+            "path": "mods/seongoo_loadingbar-1.12.2-0.0.jar"
+          }
+        },
+        {
+          "id": "seongoo_ore.jar",
+          "name": "seongoo_ore.jar",
+          "type": "File",
+          "artifact": {
+            "size": 280361,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/seongoo_ore.jar",
+            "MD5": "1997e23608dc09c6efa52fde68c6fb30",
+            "path": "mods/seongoo_ore.jar"
+          }
+        },
+        {
+          "id": "seongoo_rawinput-0.0.jar",
+          "name": "seongoo_rawinput-0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 996828,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/seongoo_rawinput-0.0.jar",
+            "MD5": "cc5756016821d42294da5b8384398089",
+            "path": "mods/seongoo_rawinput-0.0.jar"
+          }
+        },
+        {
+          "id": "ShoulderSurfing-1.12.2-2.9.6.jar",
+          "name": "ShoulderSurfing-1.12.2-2.9.6.jar",
+          "type": "File",
+          "artifact": {
+            "size": 187927,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/ShoulderSurfing-1.12.2-2.9.6.jar",
+            "MD5": "457996a662932c4b1340bbdefc1d3da2",
+            "path": "mods/ShoulderSurfing-1.12.2-2.9.6.jar"
+          }
+        },
+        {
+          "id": "smooth-scrolling-everywhere-1.1.jar",
+          "name": "smooth-scrolling-everywhere-1.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1058093,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/smooth-scrolling-everywhere-1.1.jar",
+            "MD5": "005b966b85c4319ed7d1c5af52cdcdc0",
+            "path": "mods/smooth-scrolling-everywhere-1.1.jar"
+          }
+        },
+        {
+          "id": "SmoothFont 2.1.4.jar",
+          "name": "SmoothFont 2.1.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 283749,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/SmoothFont%202.1.4.jar",
+            "MD5": "88403da50505c2bdb1e751486add8677",
+            "path": "mods/SmoothFont 2.1.4.jar"
+          }
+        },
+        {
+          "id": "soundphysics-1.1.15.jar",
+          "name": "soundphysics-1.1.15.jar",
+          "type": "File",
+          "artifact": {
+            "size": 77270,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/soundphysics-1.1.15.jar",
+            "MD5": "9c6f2024b89a32c8cc4aa9027192b5de",
+            "path": "mods/soundphysics-1.1.15.jar"
+          }
+        },
+        {
+          "id": "squidly_minecraft_movie_mod-1.0.0.jar",
+          "name": "squidly_minecraft_movie_mod-1.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1435344,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/squidly_minecraft_movie_mod-1.0.0.jar",
+            "MD5": "dd92df74554352d3c75a699f6ff82081",
+            "path": "mods/squidly_minecraft_movie_mod-1.0.0.jar"
+          }
+        },
+        {
+          "id": "StellarCore-1.5.22.jar",
+          "name": "StellarCore-1.5.22.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1342013,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/StellarCore-1.5.22.jar",
+            "MD5": "2287132c46e2112c50fa5aae8653c1a0",
+            "path": "mods/StellarCore-1.5.22.jar"
+          }
+        },
+        {
+          "id": "StoneChest 1.0.4.jar",
+          "name": "StoneChest 1.0.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 89441,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/StoneChest%201.0.4.jar",
+            "MD5": "e3596e6d967c4c65c6be305018dc37bc",
+            "path": "mods/StoneChest 1.0.4.jar"
+          }
+        },
+        {
+          "id": "twintails-1.12.2-1.0.0.jar",
+          "name": "twintails-1.12.2-1.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 100203,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/twintails-1.12.2-1.0.0.jar",
+            "MD5": "80ca9cb4c54b9ad20a91a1f7f9bf0876",
+            "path": "mods/twintails-1.12.2-1.0.0.jar"
+          }
+        },
+        {
+          "id": "VariedCommodities 31Mar23.jar",
+          "name": "VariedCommodities 31Mar23.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1809919,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/VariedCommodities%2031Mar23.jar",
+            "MD5": "c1a8914d90ff70f4b7f418387e9daedb",
+            "path": "mods/VariedCommodities 31Mar23.jar"
+          }
+        },
+        {
+          "id": "vintagefix-0.7.0.jar",
+          "name": "vintagefix-0.7.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1043465,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/vintagefix-0.7.0.jar",
+            "MD5": "a6d9c6538bc7583791b683f943b59b8e",
+            "path": "mods/vintagefix-0.7.0.jar"
+          }
+        },
+        {
+          "id": "voicechat-forge-1.12.2-2.6.11.jar",
+          "name": "voicechat-forge-1.12.2-2.6.11.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5844641,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/voicechat-forge-1.12.2-2.6.11.jar",
+            "MD5": "156be9785478c6cc91e3d8614ae1de1f",
+            "path": "mods/voicechat-forge-1.12.2-2.6.11.jar"
+          }
+        },
+        {
+          "id": "wings 1.1.6.jar",
+          "name": "wings 1.1.6.jar",
+          "type": "File",
+          "artifact": {
+            "size": 332090,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/wings%201.1.6.jar",
+            "MD5": "1b8a438f13dad0c141583a0d1716fcbf",
+            "path": "mods/wings 1.1.6.jar"
+          }
+        },
+        {
+          "id": "WorldEdit-CUI-FE3-1.12.2-3.0.9.jar",
+          "name": "WorldEdit-CUI-FE3-1.12.2-3.0.9.jar",
+          "type": "File",
+          "artifact": {
+            "size": 862363,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/WorldEdit-CUI-FE3-1.12.2-3.0.9.jar",
+            "MD5": "fead5cc137b1e0ac94c06a5638ac59e3",
+            "path": "mods/WorldEdit-CUI-FE3-1.12.2-3.0.9.jar"
+          }
+        },
+        {
+          "id": "worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+          "name": "worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1479535,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+            "MD5": "bdf6d8d20591c014fed66633f4ef3b23",
+            "path": "mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar"
+          }
+        },
+        {
+          "id": "XaerosWorldMap_1.39.12_Forge_1.12.jar",
+          "name": "XaerosWorldMap_1.39.12_Forge_1.12.jar",
+          "type": "File",
+          "artifact": {
+            "size": 870623,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/XaerosWorldMap_1.39.12_Forge_1.12.jar",
+            "MD5": "07612ebbe98e2c258650213e613d9068",
+            "path": "mods/XaerosWorldMap_1.39.12_Forge_1.12.jar"
+          }
+        },
+        {
+          "id": "Xaeros_Minimap_25.2.10_Forge_1.12.jar",
+          "name": "Xaeros_Minimap_25.2.10_Forge_1.12.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1858803,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/Xaeros_Minimap_25.2.10_Forge_1.12.jar",
+            "MD5": "664ee807d8517599112d63a5f6de5aab",
+            "path": "mods/Xaeros_Minimap_25.2.10_Forge_1.12.jar"
+          }
+        },
+        {
+          "id": "[MC-1.12.2] Default Key Setup v1.0.0.5 - 2024-12-14.jar",
+          "name": "[MC-1.12.2] Default Key Setup v1.0.0.5 - 2024-12-14.jar",
+          "type": "File",
+          "artifact": {
+            "size": 20999,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/[MC-1.12.2]%20Default%20Key%20Setup%20v1.0.0.5%20-%202024-12-14.jar",
+            "MD5": "4b893506ecaf6eab3c7d2b7772b16b2e",
+            "path": "mods/[MC-1.12.2] Default Key Setup v1.0.0.5 - 2024-12-14.jar"
+          }
+        },
+        {
+          "id": "[MC-1.12.2] Hide Key Binding v1.0.0.4 - 2024-12-15.jar",
+          "name": "[MC-1.12.2] Hide Key Binding v1.0.0.4 - 2024-12-15.jar",
+          "type": "File",
+          "artifact": {
+            "size": 27853,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/[MC-1.12.2]%20Hide%20Key%20Binding%20v1.0.0.4%20-%202024-12-15.jar",
+            "MD5": "3e7c0e54dde189c175f349a452c3d751",
+            "path": "mods/[MC-1.12.2] Hide Key Binding v1.0.0.4 - 2024-12-15.jar"
+          }
+        },
+        {
+          "id": "_supermartijn642 configlib 1.1.8.jar",
+          "name": "_supermartijn642 configlib 1.1.8.jar",
+          "type": "File",
+          "artifact": {
+            "size": 204829,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/_supermartijn642%20configlib%201.1.8.jar",
+            "MD5": "c2f110988f172e3010855231adb58cd1",
+            "path": "mods/_supermartijn642 configlib 1.1.8.jar"
+          }
+        },
+        {
+          "id": "_supermartijn642 corelib 1.1.18.jar",
+          "name": "_supermartijn642 corelib 1.1.18.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1479136,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/mods/_supermartijn642%20corelib%201.1.18.jar",
+            "MD5": "be946639493178a5ff9d9accd7a552c8",
+            "path": "mods/_supermartijn642 corelib 1.1.18.jar"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -17501,6 +18810,72 @@
             "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/optionsshaders.txt",
             "MD5": "dedaab2596c196b247f8cb85dc38caad",
             "path": "optionsshaders.txt"
+          }
+        },
+        {
+          "id": "high.txt",
+          "name": "high.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1670,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/shaderpacks/high.txt",
+            "MD5": "24bdfb1b3b2309bc1c42f68b8d65eafe",
+            "path": "shaderpacks/high.txt"
+          }
+        },
+        {
+          "id": "high.zip",
+          "name": "high.zip",
+          "type": "File",
+          "artifact": {
+            "size": 457866,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/shaderpacks/high.zip",
+            "MD5": "79d6c6ae8e9a9e1343cd50cebc43fdc8",
+            "path": "shaderpacks/high.zip"
+          }
+        },
+        {
+          "id": "low.txt",
+          "name": "low.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1758,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/shaderpacks/low.txt",
+            "MD5": "a14720c0b02dfa9b0dcb7f5cbad177c9",
+            "path": "shaderpacks/low.txt"
+          }
+        },
+        {
+          "id": "low.zip",
+          "name": "low.zip",
+          "type": "File",
+          "artifact": {
+            "size": 457866,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/shaderpacks/low.zip",
+            "MD5": "88262f5f37b0f9ef356db6c87f361b1e",
+            "path": "shaderpacks/low.zip"
+          }
+        },
+        {
+          "id": "middle.txt",
+          "name": "middle.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1702,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/shaderpacks/middle.txt",
+            "MD5": "6e088e96d0ffb34217a490f7a37b889c",
+            "path": "shaderpacks/middle.txt"
+          }
+        },
+        {
+          "id": "middle.zip",
+          "name": "middle.zip",
+          "type": "File",
+          "artifact": {
+            "size": 457866,
+            "url": "https://asdfasdfasdfasdffffffaaaw.github.io/a7b29f-4d1e-82a1/servers/seongoo_island_main-1.12.2/files/shaderpacks/middle.zip",
+            "MD5": "b08cb26b657e23e54292deecce067415",
+            "path": "shaderpacks/middle.zip"
           }
         }
       ]
