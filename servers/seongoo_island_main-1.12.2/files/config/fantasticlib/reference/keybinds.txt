@@ -1,0 +1,215 @@
+key.categories.movement
+MoCreatures Dive
+key.sprint
+key.back
+key.forward
+key.right
+key.left
+key.sneak
+key.jump
+
+key.categories.gameplay
+Quest Log
+key.attack
+key.pickItem
+key.use
+
+key.categories.inventory
+cos.key.opencosarmorinventory
+key.hotbar.1
+key.hotbar.2
+key.hotbar.3
+key.hotbar.4
+key.hotbar.5
+key.hotbar.6
+key.hotbar.7
+key.hotbar.8
+key.hotbar.9
+key.inventory
+key.drop
+key.swapHands
+equipmentcompare.key.showTooltips
+
+key.categories.creative
+key.loadToolbarActivator
+key.saveToolbarActivator
+
+key.categories.multiplayer
+key.chat
+key.command
+key.playerlist
+key.seongoo_custom.toggle
+
+key.categories.misc
+MoCreatures GUI
+gnetum.config.keyMapping
+key.open_menu
+of.key.zoom
+options.narrator
+key.advancements
+key.screenshot
+key.smoothCamera
+key.togglePerspective
+key.fullscreen
+key.spectatorOutlines
+
+Arcade Mod
+Down
+Jump
+Left/Back
+Right
+Select
+Up
+
+key.categories.forgeautofish
+Toggle AutoFish¡×r
+
+chunkloaders.keys.category
+chunkloaders.keys.open_screen
+
+key.categories.compactf3plus
+key.compactf3plus.toggleHud
+
+Dark Roleplay Core
+drpcore.keyBinding.openCrafting
+drpcore.keyBinding.placement_preview
+keyBinding.debuging2
+
+emoticons.keys.category
+emoticons.keys.emotes
+emoticons.keys.emote1
+emoticons.keys.emote2
+emoticons.keys.emote3
+emoticons.keys.emote4
+emoticons.keys.emote5
+emoticons.keys.emote6
+emoticons.keys.random
+emoticons.keys.reload_emotes
+emoticons.keys.stop_emote
+
+Fish's Undead Rising
+key.mod_lavacow.down
+key.mod_lavacow.special
+
+Item Zoom
+key.itemzoom.hold
+key.itemzoom.toggle
+key.itemzoom.zoom.in
+key.itemzoom.zoom.out
+
+Lycanites Mobs
+key.beastiary
+key.index
+key.mount.dismount
+key.minions
+key.mount.ability
+key.mount.descend
+key.mount.inventory
+key.pets
+key.summoning
+
+key.mclib.category
+key.mclib.dashboard
+
+key.metamorph
+key.metamorph.demorph
+key.metamorph.creative_menu
+key.metamorph.selector_menu
+key.metamorph.survival_menu
+key.metamorph.action
+
+keys.cfm.category
+key.fart.desc
+
+xreliquary.keybind.category
+xreliquary.keybind.fortune_coin
+
+Shoulder Surfing
+Camera closer
+Camera down
+Camera farther
+Camera left
+Camera right
+Camera up
+Swap shoulder
+Toggle perspective
+
+smoothfont.key.categories
+smoothfont.key.guiOpen
+
+key.categories.wings
+key.wings.fly
+
+WorldEdit
+WorldEdit Reference
+
+worldeditcuife3.key.main_category
+worldeditcuife3.key.cui.clear.selection
+worldeditcuife3.key.cui.options
+worldeditcuife3.key.cui.toggle.visibility
+worldeditcuife3.key.distance.toggle.visibility
+worldeditcuife3.key.chunk.toggle.visibility
+
+Xaero's Minimap
+gui.xaero_alternative_list_players
+gui.xaero_enlarge_map
+gui.xaero_minimap_settings
+gui.xaero_new_waypoint
+gui.xaero_waypoints_key
+gui.xaero_instant_waypoint
+gui.xaero_reverse_entity_radar
+gui.xaero_switch_waypoint_set
+gui.xaero_display_all_sets
+gui.xaero_toggle_grid
+gui.xaero_toggle_entity_radar
+gui.xaero_toggle_waypoints
+gui.xaero_toggle_light_overlay
+gui.xaero_toggle_manual_cave_mode
+gui.xaero_toggle_map
+gui.xaero_toggle_map_waypoints
+gui.xaero_toggle_slime
+gui.xaero_toggle_tracked_players_in_world
+gui.xaero_toggle_tracked_players_on_map
+gui.xaero_zoom_in
+gui.xaero_zoom_out
+
+Xaero's World Map
+gui.xaero_open_settings
+gui.xaero_open_map
+gui.xaero_quick_confirm
+gui.xaero_toggle_dimension
+gui.xaero_map_zoom_in
+gui.xaero_map_zoom_out
+
+flare.key.category
+flare.key.open_tick_tracking_menu
+flare.key.start_client_sampling
+flare.key.start_sampling
+flare.key.stop_client_sampling
+flare.key.stop_sampling
+
+jei (Had Enough Items)
+key.jei.focusSearch
+key.jei.nextPage
+key.jei.toggleBookmarkOverlay
+key.jei.bookmark
+key.jei.toggleEditMode
+key.jei.toggleOverlay
+key.jei.showUses
+key.jei.showRecipe
+key.jei.toggleCheatMode
+key.jei.recipeBack
+key.jei.previousPage
+
+key.categories.voicechat
+key.whisper
+key.voice_chat_toggle_recording
+key.push_to_talk
+key.mute_microphone
+key.voice_chat
+key.voice_chat_group
+key.disable_voice_chat
+key.voice_chat_settings
+key.hide_icons
+key.voice_chat_adjust_volumes
+

@@ -1,0 +1,13 @@
+{
+  "printTransformedClasses": false,
+  "checkEnumsWhenRunningTime": false,
+  "runOnAbsoluteSafeEnvironment": false,
+  "type": "block",
+  "contains": [],
+  "prefix": [
+    "com.google.common.util.concurrent.MoreExecutors$DirectExecutor",
+    "net.ilexiconn.llibrary.server.nbt.NBTHandler",
+    "git.jbredwards.fluidlogged_api.mod.common.message.MessageSyncFluidStates$Handler"
+  ],
+  "generateConfigWhenCrash": true
+}

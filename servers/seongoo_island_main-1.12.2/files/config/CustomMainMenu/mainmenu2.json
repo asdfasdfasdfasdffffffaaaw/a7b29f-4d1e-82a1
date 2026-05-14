@@ -1,0 +1,138 @@
+{
+    "images":
+    {
+	
+		"black":
+        {
+            "image" : "custommainmenu:textures/gui/bg_menu.png",
+			"normalTextColor" : 16729156,
+            "posX" : 59,
+            "posY" : 0,
+            "width" : 155,
+            "height" : 800,
+            "alignment" : "top_left"
+        }
+	
+	},
+    
+    "buttons":
+    {
+		"login":
+        {
+            "text" : "서버 접속",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "custommainmenu:textures/gui/btn.png",
+            "posX" : 60,
+            "posY" : 90,
+            "width" : 153,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "seongooisland.tplinkdns.com"
+            }
+        },	
+               
+		"options":
+        {
+            "text" : "설정",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "custommainmenu:textures/gui/btn.png",
+            "posX" : 60,
+            "posY" : 110,
+            "width" : 153,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+                    
+        "quit":
+        {
+            "text" : "나가기",
+			"normalTextColor" : 16729156,
+			"hoverTextColor" : 14483456,
+			"texture" : "custommainmenu:textures/gui/btn.png",
+            "posX" : 60,
+            "posY" : 130,
+            "width" : 153,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        }
+		
+
+
+
+	},
+    
+    "texts":
+    {
+		"packTxt":
+        {
+            "text" : "client_ver_0.2",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+		
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -134,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        }
+    },
+    
+	
+	"alignments":
+    {
+        "c1":
+        {
+            "factorWidth" : 0.5,
+            "factorHeight" : 0.7
+        },
+ 
+        "c2":
+        {
+            "factorWidth" : 0.2,
+            "factorHeight" : 0.2
+        }
+    },
+	
+    "other":
+    {
+		"background":
+		{
+			"image" : "",
+            "slideshow":
+			{
+			    "images" : ["custommainmenu:textures/gui/main1.png",
+			    "custommainmenu:textures/gui/main2.png",
+			    "custommainmenu:textures/gui/main3.png",
+			    "custommainmenu:textures/gui/main4.png"],
+                "displayDuration" : 100,
+                "fadeDuration" : 40,
+				"shuffle" : ture
+			}
+		}
+    }
+}

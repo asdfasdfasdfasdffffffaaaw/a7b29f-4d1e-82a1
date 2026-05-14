@@ -1,0 +1,422 @@
+{
+    "minecraft": {
+        "": {}
+    },
+    "mcp": {
+        "": {}
+    },
+    "FML": {
+        "": {}
+    },
+    "forge": {
+        "": {}
+    },
+    "creativecoredummy": {
+        "": {}
+    },
+    "flare": {
+        "": {}
+    },
+    "itemphysic": {
+        "": {}
+    },
+    "naughthirium": {
+        "": {}
+    },
+    "redirectionor": {
+        "": {}
+    },
+    "smoothfontcore": {
+        "": {}
+    },
+    "xaerominimap_core": {
+        "": {}
+    },
+    "xaeroworldmap_core": {
+        "": {}
+    },
+    "mixinbooter": {
+        "": {}
+    },
+    "smoothfont": {
+        "": {}
+    },
+    "skinlayers3d": {
+        "": {}
+    },
+    "equipmentcompare": {
+        "": {}
+    },
+    "minieffects": {
+        "": {}
+    },
+    "crash_assistant": {
+        "": {}
+    },
+    "configanytime": {
+        "": {}
+    },
+    "redcore": {
+        "": {}
+    },
+    "enchantinginfuserbackport": {
+        "": {}
+    },
+    "default_key_setup": {
+        "": {}
+    },
+    "hide_key_binding": {
+        "": {}
+    },
+    "supermartijn642configlib": {
+        "": {}
+    },
+    "supermartijn642corelib": {
+        "": {}
+    },
+    "advancementplaques": {
+        "": {}
+    },
+    "alfheim": {
+        "": {}
+    },
+    "ancientbeasts": {
+        "": {}
+    },
+    "jei": {
+        "": {}
+    },
+    "appleskin": {
+        "": {}
+    },
+    "aquaacrobatics": {
+        "": {}
+    },
+    "aquaculture": {
+        "": {}
+    },
+    "arcademod": {
+        "": {}
+    },
+    "betterchat": {
+        "": {}
+    },
+    "blur": {
+        "": {}
+    },
+    "cameraoverhaul": {
+        "": {}
+    },
+    "castlebladespookystory": {
+        "": {}
+    },
+    "mclib": {
+        "": {
+            "{\"mclib.gui.keys.list\":[]}": 0
+        },
+        "{\"mclib.gui.dashboard.category\":[]}": {
+            "[{\"mclib.gui.dashboard.open_panel\":[]},{\"mclib.gui.config.tooltip\":[]}]": 0,
+            "[{\"mclib.gui.dashboard.open_panel\":[]},{\"mclib.gui.graph.tooltip\":[]}]": 0
+        }
+    },
+    "metamorph": {
+        "": {}
+    },
+    "chameleon_morph": {
+        "": {}
+    },
+    "suikecherry": {
+        "": {}
+    },
+    "chunkloaders": {
+        "": {}
+    },
+    "cobblegenhaters": {
+        "": {}
+    },
+    "cookingforblockheads": {
+        "": {}
+    },
+    "coralreef": {
+        "": {}
+    },
+    "cosmeticarmorreworked": {
+        "": {}
+    },
+    "creativecore": {
+        "": {}
+    },
+    "cucumber": {
+        "": {}
+    },
+    "custommainmenu": {
+        "": {}
+    },
+    "customspawner": {
+        "": {}
+    },
+    "customnpcs": {
+        "": {}
+    },
+    "drones": {
+        "": {}
+    },
+    "orelib": {
+        "": {}
+    },
+    "dsurround": {
+        "": {}
+    },
+    "ediblebugs": {
+        "": {}
+    },
+    "emoticons": {
+        "": {}
+    },
+    "entityculling": {
+        "": {}
+    },
+    "entitydistance": {
+        "": {}
+    },
+    "epicdeathscreen": {
+        "": {}
+    },
+    "fantasticlib": {
+        "": {}
+    },
+    "esrainplants": {
+        "": {}
+    },
+    "mod_lavacow": {
+        "": {}
+    },
+    "fluidlogged_api": {
+        "": {}
+    },
+    "forgeautofish": {
+        "": {}
+    },
+    "forgelin_continuous": {
+        "": {}
+    },
+    "forgelin": {
+        "": {}
+    },
+    "llibrary": {
+        "": {}
+    },
+    "fossil": {
+        "": {}
+    },
+    "fw": {
+        "": {}
+    },
+    "cfm": {
+        "": {}
+    },
+    "gamemode": {
+        "": {}
+    },
+    "gnetum": {
+        "": {}
+    },
+    "grimoireofgaia": {
+        "": {}
+    },
+    "grounditemhighlighting": {
+        "": {}
+    },
+    "growable_ores": {
+        "": {}
+    },
+    "highlighter": {
+        "": {}
+    },
+    "horror_elements_mod": {
+        "": {}
+    },
+    "infinitywaterbucket": {
+        "": {}
+    },
+    "itemzoom": {
+        "": {}
+    },
+    "loliasm": {
+        "": {}
+    },
+    "lycanitesmobs": {
+        "": {}
+    },
+    "materialchanger": {
+        "": {}
+    },
+    "minemenu": {
+        "": {}
+    },
+    "testdummy": {
+        "": {}
+    },
+    "mocreatures": {
+        "": {}
+    },
+    "seongoo_server": {
+        "": {}
+    },
+    "morearmor": {
+        "": {}
+    },
+    "mowziesmobs": {
+        "": {}
+    },
+    "nefdecomod": {
+        "": {}
+    },
+    "neverenoughanimations": {
+        "": {}
+    },
+    "new_fantasy_additions": {
+        "": {}
+    },
+    "nodami": {
+        "": {}
+    },
+    "norecipebook": {
+        "": {}
+    },
+    "renderlib": {
+        "": {}
+    },
+    "nothirium": {
+        "": {}
+    },
+    "oe": {
+        "": {}
+    },
+    "offhandbanning": {
+        "": {}
+    },
+    "optinotfine": {
+        "": {}
+    },
+    "packetfixer": {
+        "": {}
+    },
+    "harvestcraft": {
+        "": {}
+    },
+    "particleculling": {
+        "": {}
+    },
+    "particlerain": {
+        "": {}
+    },
+    "ponder": {
+        "": {}
+    },
+    "preventghost": {
+        "": {}
+    },
+    "ptrmodellib": {
+        "": {}
+    },
+    "rawinput": {
+        "": {}
+    },
+    "rebind_narrator": {
+        "": {}
+    },
+    "xreliquary": {
+        "": {}
+    },
+    "rustic": {
+        "": {}
+    },
+    "seongoo_gravity": {
+        "": {}
+    },
+    "seongoo_loadingbar": {
+        "": {}
+    },
+    "more_ores": {
+        "": {}
+    },
+    "shouldersurfing": {
+        "": {}
+    },
+    "smooth-scrolling-everywhere": {
+        "": {}
+    },
+    "smoothsneakingmod": {
+        "": {}
+    },
+    "soundphysics": {
+        "": {}
+    },
+    "stellar_core": {
+        "": {}
+    },
+    "stonechest": {
+        "": {}
+    },
+    "twintails": {
+        "": {}
+    },
+    "variedcommodities": {
+        "": {}
+    },
+    "vintagefix": {
+        "": {}
+    },
+    "voicechat_api": {
+        "": {}
+    },
+    "voicechat": {
+        "": {}
+    },
+    "wings": {
+        "": {}
+    },
+    "mowzies_wings": {
+        "": {}
+    },
+    "worldedit": {
+        "": {}
+    },
+    "worldeditcuife3": {
+        "": {}
+    },
+    "xaerominimap": {
+        "": {}
+    },
+    "xaeroworldmap": {
+        "": {}
+    },
+    "betteranimalsplus": {
+        "": {}
+    },
+    "drplibrary": {
+        "": {}
+    },
+    "drpcmblueprints": {
+        "": {}
+    },
+    "drpcmmaarg": {
+        "": {}
+    },
+    "drpcmguis": {
+        "": {}
+    },
+    "drpcore": {
+        "": {}
+    },
+    "drpcmlocks": {
+        "": {}
+    },
+    "drpmedieval": {
+        "": {}
+    },
+    "": {
+        "": {}
+    }
+}

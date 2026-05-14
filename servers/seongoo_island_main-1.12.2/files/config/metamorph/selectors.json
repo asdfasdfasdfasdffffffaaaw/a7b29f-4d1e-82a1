@@ -1,0 +1,322 @@
+[
+    {
+        "name": "",
+        "type": "minecraft:cow",
+        "enabled": true,
+        "morph": "{Name:\"ancientbeasts:vessel\",ForcedSettings:0b,EntityData:{SpellTicks:0,InactTicks:0,Inactive:0b,AbsorptionAmount:0.0f,InactPhase:0,ForgeCaps:{\"upsidedown:upsidedown\":{inupsidedown:0},\"dsurround:speech\":{},\"llibrary:extendedentitydatacapability\":{\"mm:living\":{frozenRenderYawOffset:0.0f,freezeDecayDelay:0,frozenYaw:0.0f,frozenYawHead:0.0f,frozenPitch:0.0f,freezeProgress:0.0f,prevHasAI:0b,frozenSwingProgress:0.0f,frozenLimbSwingAmount:0.0f}},\"lycanitesmobs:iextendedentity\":{},\"dsurround:data\":{a:0b,f:0b},\"dsurround:entityfx\":{}},PersistenceRequired:0b,UpdateBlocked:0b,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.699999988079071d,2.5d,0.699999988079071d]},Scale:1.0f}"
+    },
+    {
+        "name": "",
+        "type": "minecraft:arrow",
+        "enabled": true,
+        "morph": "{Name:\"mowziesmobs:naga\",ForcedSettings:0b,EntityData:{ForgeCaps:{\"llibrary:extendedentitydatacapability\":{\"mm:living\":{frozenRenderYawOffset:0.0f,frozenYaw:0.0f,freezeDecayDelay:0,frozenYawHead:0.0f,frozenPitch:0.0f,freezeProgress:0.0f,prevHasAI:0b,frozenSwingProgress:0.0f,frozenLimbSwingAmount:0.0f}},\"dsurround:speech\":{},\"upsidedown:upsidedown\":{inupsidedown:0},\"lycanitesmobs:iextendedentity\":{},\"dsurround:data\":{a:0b,f:0b},\"dsurround:entityfx\":{}},SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,2.699999988079071d,1.0d,2.699999988079071d],AbsorptionAmount:0.0f,UpdateBlocked:0b,PersistenceRequired:0b},Scale:1.0f}"
+    },
+    {
+        "name": "",
+        "type": "",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:pandabear\",EntityData:{Adult:1b,TypeInt:1,Chested:0b,Ghost:0b,AbsorptionAmount:0.0f,BearState:2,ForgeData:{cnpcmarkdata:{marks:[]}},Name:\"\",Age:0,ForgeCaps:{\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{\"Fossils - Mammal Tracker\":{EmbryoProgress:0,Embryo:-1}},\"lycanitesmobs:iextendedentity\":{}},Saddle:0b,Edad:80,SurgeAABB:[491.71695846995294d,77.0d,8.850392581219001d,492.91695851763666d,78.5d,10.05039262890272d],UpdateBlocked:0b,PersistenceRequired:0b,ForcedAge:0,InLove:0,Tamed:0b},Scale:1.0f,ForcedSettings:0b}"
+    },
+    {
+        "name": "독수리",
+        "type": "minecraft:chicken",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:raiko\",EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:0.75f,Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.25f,Height:1.8f},ForcedSettings:0b}"
+    },
+    {
+        "name": "여왕벌",
+        "type": "minecraft:chicken",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:vespidqueen\",EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:1.0f,ForcedSettings:0b}"
+    },
+    {
+        "name": "거대 가오리",
+        "type": "minecraft:chicken",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:ioray\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Height:1.8f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Speed:0.168f,Updates:1b,Hostile:0b,Attack:\"null\",Abilities:[],Hands:0b},EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:1.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "동굴 박쥐",
+        "type": "minecraft:chicken",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:epion\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.25f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:0.95f,ForcedSettings:1b}"
+    },
+    {
+        "name": "참새",
+        "type": "minecraft:chicken",
+        "enabled": true,
+        "morph": "{Name:\"betteranimalsplus:songbird\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.25f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Speed:0.080000006f,Updates:1b,Hostile:1b,Attack:\"null\",Abilities:[],Hands:0b},EntityData:{ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:1,PersistenceRequired:0b,AbsorptionAmount:0.0f,SurgeAABB:[-0.25d,0.0d,-0.25d,0.25d,0.5d,0.25d],UpdateBlocked:0b,ForcedAge:0,InLove:0,TypeNumber:0},Scale:3.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "소룡",
+        "type": "minecraft:chicken",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:remobra\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.25f,Height:2.0f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:1.5f,ForcedSettings:1b}"
+    },
+    {
+        "name": "만티코어",
+        "type": "minecraft:chicken",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:manticorepet\",EntityData:{Adult:0b,TypeInt:0,Chested:0b,Ghost:0b,AbsorptionAmount:0.0f,Saddle:0b,Name:\"\",Age:1,Amulet:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Edad:45,Sitting:0b,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,1.0999999642372131d,1.2999999523162842d,1.0999999642372131d],UpdateBlocked:0b,PersistenceRequired:0b,ForcedAge:0,InLove:0,Tamed:0b},Scale:2.5f,ForcedSettings:0b}"
+    },
+    {
+        "name": "상어",
+        "type": "minecraft:chicken",
+        "enabled": true,
+        "morph": "{Name:\"betteranimalsplus:shark\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.1f,Height:2.0f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},AbsorptionAmount:0.0f,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,2.199999988079071d,1.2000000476837158d,2.199999988079071d],UpdateBlocked:0b,TypeNumber:0,PersistenceRequired:0b},Scale:1.33f,ForcedSettings:1b}"
+    },
+    {
+        "name": "",
+        "type": "",
+        "enabled": true
+    },
+    {
+        "name": "불개미",
+        "type": "minecraft:horse",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:calpod\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},AbsorptionAmount:0.0f,Subspecies:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,SpawnEventCount:-1,MinionIds:[],IsBoundPet:0b,Variant:0b,Drops:[],IsTemporary:0b,SpawnEventType:\"\",MobLevel:1,PersistenceRequired:0b,ForceNoDespawn:0b,SpawnedAsBoss:0b},Scale:1.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "늑대",
+        "type": "minecraft:horse",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:warg\",Hitbox:{Eye:0.9f,Sneak:1.6f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:0.9f,ForcedSettings:1b}"
+    },
+    {
+        "name": "꽃게",
+        "type": "minecraft:horse",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:crab\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.0f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:1b,Abilities:[],Hands:0b},EntityData:{ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:1,SurgeAABB:[-0.15000000596046448d,0.0d,-0.15000000596046448d,0.15000000596046448d,0.30000001192092896d,0.15000000596046448d],AbsorptionAmount:0.0f,UpdateBlocked:0b,PersistenceRequired:0b,ForcedAge:0,InLove:0,Tamed:0b},Scale:2.2f,ForcedSettings:1b}"
+    },
+    {
+        "name": "전갈",
+        "type": "minecraft:horse",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:scorpion\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:1b,Abilities:[],Hands:0b},EntityData:{Name:\"\",Adult:1b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Edad:20,TypeInt:0,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,1.0999999642372131d,0.8999999761581421d,1.0999999642372131d],Babies:0b,AbsorptionAmount:0.0f,UpdateBlocked:0b,PersistenceRequired:0b},Scale:1.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "호랑이",
+        "type": "minecraft:horse",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:leoger\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{Adult:1b,TypeInt:0,Chested:0b,Ghost:0b,AbsorptionAmount:0.0f,Saddle:0b,Name:\"\",Age:1,Amulet:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Edad:45,Sitting:0b,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,1.0999999642372131d,1.2999999523162842d,1.0999999642372131d],UpdateBlocked:0b,PersistenceRequired:0b,ForcedAge:0,InLove:0,Tamed:0b},Scale:3.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "와이번",
+        "type": "minecraft:horse",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:wyvern\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:0.8f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:1b,Abilities:[],Hands:0b},EntityData:{Adult:0b,TypeInt:0,Chested:0b,AbsorptionAmount:0.0f,Name:\"\",Age:1,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Saddle:0b,Edad:75,Tamed:0b,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,1.5999999642372131d,1.7000000476837158d,1.5999999642372131d],UpdateBlocked:0b,isSitting:0b,PersistenceRequired:0b,ForcedAge:0,InLove:0,isGhost:0b,ArmorType:0},Scale:1.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "용암 고룡",
+        "type": "minecraft:horse",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:zoataur\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:1,HP:20,Action:\"jump\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:0.5f,ForcedSettings:1b}"
+    },
+    {
+        "name": "두꺼비",
+        "type": "minecraft:horse",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:aglebemu\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:1.5f,ForcedSettings:1b}"
+    },
+    {
+        "name": "",
+        "type": "",
+        "enabled": true
+    },
+    {
+        "name": "불개미",
+        "type": "minecraft:zombie_horse",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:calpod\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},AbsorptionAmount:0.0f,Subspecies:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,SpawnEventCount:-1,MinionIds:[],IsBoundPet:0b,Variant:0b,Drops:[],IsTemporary:0b,SpawnEventType:\"\",MobLevel:1,PersistenceRequired:0b,ForceNoDespawn:0b,SpawnedAsBoss:0b},Scale:1.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "늑대",
+        "type": "minecraft:zombie_horse",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:warg\",Hitbox:{Eye:0.9f,Sneak:1.6f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:0.9f,ForcedSettings:1b}"
+    },
+    {
+        "name": "꽃게",
+        "type": "minecraft:zombie_horse",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:crab\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.0f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:1b,Abilities:[],Hands:0b},EntityData:{ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:1,SurgeAABB:[-0.15000000596046448d,0.0d,-0.15000000596046448d,0.15000000596046448d,0.30000001192092896d,0.15000000596046448d],AbsorptionAmount:0.0f,UpdateBlocked:0b,PersistenceRequired:0b,ForcedAge:0,InLove:0,Tamed:0b},Scale:2.2f,ForcedSettings:1b}"
+    },
+    {
+        "name": "전갈",
+        "type": "minecraft:zombie_horse",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:scorpion\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:1b,Abilities:[],Hands:0b},EntityData:{Name:\"\",Adult:1b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Edad:20,TypeInt:0,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,1.0999999642372131d,0.8999999761581421d,1.0999999642372131d],Babies:0b,AbsorptionAmount:0.0f,UpdateBlocked:0b,PersistenceRequired:0b},Scale:1.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "호랑이",
+        "type": "minecraft:zombie_horse",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:leoger\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{Adult:1b,TypeInt:0,Chested:0b,Ghost:0b,AbsorptionAmount:0.0f,Saddle:0b,Name:\"\",Age:1,Amulet:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Edad:45,Sitting:0b,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,1.0999999642372131d,1.2999999523162842d,1.0999999642372131d],UpdateBlocked:0b,PersistenceRequired:0b,ForcedAge:0,InLove:0,Tamed:0b},Scale:3.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "와이번",
+        "type": "minecraft:zombie_horse",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:wyvern\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:0.8f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:1b,Abilities:[],Hands:0b},EntityData:{Adult:0b,TypeInt:0,Chested:0b,AbsorptionAmount:0.0f,Name:\"\",Age:1,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Saddle:0b,Edad:75,Tamed:0b,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,1.5999999642372131d,1.7000000476837158d,1.5999999642372131d],UpdateBlocked:0b,isSitting:0b,PersistenceRequired:0b,ForcedAge:0,InLove:0,isGhost:0b,ArmorType:0},Scale:1.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "용암 고룡",
+        "type": "minecraft:zombie_horse",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:zoataur\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:1,HP:20,Action:\"jump\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:0.5f,ForcedSettings:1b}"
+    },
+    {
+        "name": "두꺼비",
+        "type": "minecraft:zombie_horse",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:aglebemu\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:1.5f,ForcedSettings:1b}"
+    },
+    {
+        "name": "",
+        "type": "",
+        "enabled": true
+    },
+    {
+        "name": "불개미",
+        "type": "minecraft:skeleton_horse",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:calpod\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},AbsorptionAmount:0.0f,Subspecies:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,SpawnEventCount:-1,MinionIds:[],IsBoundPet:0b,Variant:0b,Drops:[],IsTemporary:0b,SpawnEventType:\"\",MobLevel:1,PersistenceRequired:0b,ForceNoDespawn:0b,SpawnedAsBoss:0b},Scale:1.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "늑대",
+        "type": "minecraft:skeleton_horse",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:warg\",Hitbox:{Eye:0.9f,Sneak:1.6f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:0.9f,ForcedSettings:1b}"
+    },
+    {
+        "name": "꽃게",
+        "type": "minecraft:skeleton_horse",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:crab\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.0f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:1b,Abilities:[],Hands:0b},EntityData:{ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:1,SurgeAABB:[-0.15000000596046448d,0.0d,-0.15000000596046448d,0.15000000596046448d,0.30000001192092896d,0.15000000596046448d],AbsorptionAmount:0.0f,UpdateBlocked:0b,PersistenceRequired:0b,ForcedAge:0,InLove:0,Tamed:0b},Scale:2.2f,ForcedSettings:1b}"
+    },
+    {
+        "name": "전갈",
+        "type": "minecraft:skeleton_horse",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:scorpion\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:1b,Abilities:[],Hands:0b},EntityData:{Name:\"\",Adult:1b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Edad:20,TypeInt:0,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,1.0999999642372131d,0.8999999761581421d,1.0999999642372131d],Babies:0b,AbsorptionAmount:0.0f,UpdateBlocked:0b,PersistenceRequired:0b},Scale:1.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "호랑이",
+        "type": "minecraft:skeleton_horse",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:leoger\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{Adult:1b,TypeInt:0,Chested:0b,Ghost:0b,AbsorptionAmount:0.0f,Saddle:0b,Name:\"\",Age:1,Amulet:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Edad:45,Sitting:0b,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,1.0999999642372131d,1.2999999523162842d,1.0999999642372131d],UpdateBlocked:0b,PersistenceRequired:0b,ForcedAge:0,InLove:0,Tamed:0b},Scale:3.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "와이번",
+        "type": "minecraft:skeleton_horse",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:wyvern\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:0.8f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:1b,Abilities:[],Hands:0b},EntityData:{Adult:0b,TypeInt:0,Chested:0b,AbsorptionAmount:0.0f,Name:\"\",Age:1,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Saddle:0b,Edad:75,Tamed:0b,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,1.5999999642372131d,1.7000000476837158d,1.5999999642372131d],UpdateBlocked:0b,isSitting:0b,PersistenceRequired:0b,ForcedAge:0,InLove:0,isGhost:0b,ArmorType:0},Scale:1.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "용암 고룡",
+        "type": "minecraft:skeleton_horse",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:zoataur\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:1,HP:20,Action:\"jump\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:0.5f,ForcedSettings:1b}"
+    },
+    {
+        "name": "두꺼비",
+        "type": "minecraft:skeleton_horse",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:aglebemu\",Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Width:1.3f,Height:1.6f},Settings:{ShadowOption:0,HP:20,Action:\"null\",Updates:1b,Attack:\"null\",Hostile:0b,Abilities:[],Hands:0b},EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:1.5f,ForcedSettings:1b}"
+    },
+    {
+        "name": "",
+        "type": "",
+        "enabled": true
+    },
+    {
+        "name": "다람쥐",
+        "type": "minecraft:wolf",
+        "enabled": true,
+        "morph": "{Name:\"betteranimalsplus:squirrel\",EntityData:{ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{\"Fossils - Mammal Tracker\":{EmbryoProgress:0,Embryo:-1}},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:1,PersistenceRequired:0b,AbsorptionAmount:0.0f,SurgeAABB:[-0.25d,0.0d,-0.25d,0.25d,0.5d,0.25d],UpdateBlocked:0b,ForcedAge:0,InLove:0,TypeNumber:0},Scale:1.25f,Hitbox:{Eye:0.5f,Sneak:0.5f,Enabled:1b,Width:0.5f,Height:1.0f},ForcedSettings:0b}"
+    },
+    {
+        "name": "고양이",
+        "type": "minecraft:wolf",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:kitty\",EntityData:{Adult:1b,TypeInt:0,KittyState:1,AbsorptionAmount:0.0f,Name:\"\",Age:1,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{\"Fossils - Mammal Tracker\":{EmbryoProgress:0,Embryo:-1}},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Edad:40,Sitting:0b,PersistenceRequired:0b,UpdateBlocked:0b,InLove:0,ForcedAge:0,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.3999999761581421d,0.5d,0.3999999761581421d],Tamed:0b},Scale:1.0f,Hitbox:{Eye:0.5f,Sneak:0.5f,Enabled:1b,Width:0.5f,Height:1.0f},ForcedSettings:0b}"
+    },
+    {
+        "name": "너구리",
+        "type": "minecraft:wolf",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:raccoon\",EntityData:{Adult:0b,TypeInt:0,AbsorptionAmount:0.0f,Name:\"\",Age:1,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{\"Fossils - Mammal Tracker\":{EmbryoProgress:0,Embryo:-1}},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Edad:50,SurgeAABB:[-0.25d,0.0d,-0.25d,0.25d,0.6000000238418579d,0.25d],UpdateBlocked:0b,PersistenceRequired:0b,ForcedAge:0,InLove:0,Tamed:0b},Scale:1.5f,Hitbox:{Eye:0.5f,Sneak:0.5f,Enabled:1b,Width:0.5f,Height:1.0f},ForcedSettings:0b}"
+    },
+    {
+        "name": "토끼",
+        "type": "minecraft:wolf",
+        "enabled": true,
+        "morph": "{Name:\"minecraft:rabbit\",EntityData:{RabbitType:0,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{\"Fossils - Mammal Tracker\":{EmbryoProgress:0,Embryo:-1}},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:1,SurgeAABB:[-0.20000000298023224d,0.0d,-0.20000000298023224d,0.20000000298023224d,0.5d,0.20000000298023224d],AbsorptionAmount:0.0f,UpdateBlocked:0b,PersistenceRequired:0b,ForcedAge:0,MoreCarrotTicks:0,InLove:0},Scale:1.0f,Hitbox:{Eye:0.9f,Sneak:0.5f,Enabled:1b,Width:0.5f,Height:1.0f},ForcedSettings:0b}"
+    },
+    {
+        "name": "거북이",
+        "type": "minecraft:wolf",
+        "enabled": true,
+        "morph": "{Name:\"mocreatures:turtle\",EntityData:{Adult:0b,TypeInt:0,AbsorptionAmount:0.0f,Name:\"\",Age:1,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{\"Fossils - Mammal Tracker\":{EmbryoProgress:0,Embryo:-1}},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Edad:97,Tamed:0b,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,0.4000000059604645d,0.30000001192092896d],UpdateBlocked:0b,PersistenceRequired:0b,ForcedAge:0,InLove:0,UpsideDown:0b},Scale:1.25f,Hitbox:{Eye:0.5f,Sneak:0.5f,Enabled:1b,Width:0.5f,Height:1.0f},ForcedSettings:0b}"
+    },
+    {
+        "name": "암흑충",
+        "type": "minecraft:wolf",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:darkling\",Hitbox:{Eye:0.5f,Sneak:0.5f,Enabled:1b,Width:0.5f,Height:1.0f},Settings:{ShadowOption:0,HP:10,Action:\"null\",Speed:0.14400001f,Updates:1b,Hostile:0b,Attack:\"poison\",Abilities:[],Hands:0b},EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:1.0f,ForcedSettings:1b}"
+    },
+    {
+        "name": "코볼트",
+        "type": "minecraft:wolf",
+        "enabled": true,
+        "morph": "{Name:\"lycanitesmobs:kobold\",EntityData:{Hunger:20.0f,TemporaryDuration:0,ExtraBehaviour:{BoostEffect:0,MultiplierHealth:1.0d,BoostDefense:0,MultiplierArmor:1.0d,SwimmingOverride:0b,BoostDamage:0,FlightOverride:0b,MultiplierEffect:1.0d,MultiplierSpeed:1.0d,WaterBreathingOverride:0b,MultiplierDamage:1.0d,AggressiveOverride:0b,StealthOverride:0b,MultiplierDefense:1.0d,AIAttackPlayers:0b,InventorySizeOverride:0,BoostPierce:0,BoostSpeed:0,FireImmunityOverride:0b,MultiplierPierce:1.0d,MultiplierHaste:1.0d,BoostArmor:0,ItemDropMultiplierOverride:1.0d,BoostHaste:0,BoostHealth:0,ItemPickupOverride:0b,AIDefendAnimals:0b},Aggressive:1b,AbsorptionAmount:0.0f,Following:0b,Subspecies:0b,PVP:0b,FromSummoningPedestal:0b,DropsRequirePlayerDamage:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},Age:0,Sitting:0b,FirstSpawn:1b,Experience:0,Items:[],SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,Size:1.0d,SpawnedWithBlockProtection:0,Stealth:0.0f,CreatureRelationships:[],Color:0b,IsMinion:0b,Drops:[],Variant:0b,MinionIds:[],IsBoundPet:0b,SpawnEventCount:-1,Passive:0b,IsTemporary:0b,Stamina:100.0f,SpawnEventType:\"\",PersistenceRequired:0b,MobLevel:1,ForceNoDespawn:0b,InLove:0,SpawnedAsBoss:0b,HasBeenFarmed:0b},Scale:1.0f,Hitbox:{Eye:0.5f,Sneak:0.5f,Enabled:1b,Width:0.5f,Height:1.0f},ForcedSettings:0b}"
+    },
+    {
+        "name": "거대한 알",
+        "type": "minecraft:wolf",
+        "enabled": true,
+        "morph": "{Name:\"fossil:fossil.dinoegg\",EntityData:{ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},BirthTick:0,ParentOwner:\"\",SurgeAABB:[-0.25d,0.0d,-0.25d,0.25d,0.6000000238418579d,0.25d],DinoType:14,UpdateBlocked:1b},Scale:2.0f,Hitbox:{Eye:0.5f,Sneak:0.5f,Enabled:1b,Width:0.5f,Height:1.0f},ForcedSettings:0b}"
+    },
+    {
+        "name": "조약돌 자동인형",
+        "type": "minecraft:wolf",
+        "enabled": true,
+        "morph": "{Name:\"grimoireofgaia:deathword\",EntityData:{ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},AbsorptionAmount:0.0f,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,neutral:0b,PersistenceRequired:0b},Scale:1.0f,ForcedSettings:0b}"
+    },
+    {
+        "name": "살아있는 마법서",
+        "type": "minecraft:wolf",
+        "enabled": true,
+        "morph": "{Name:\"grimoireofgaia:valkyrie\",EntityData:{ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},PersistenceRequired:0b,AbsorptionAmount:0.0f,annoyed:0b,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.699999988079071d,2.0d,0.699999988079071d],UpdateBlocked:0b,friendly:0b},Scale:0.5f,ForcedSettings:0b}"
+    },
+    {
+        "name": "쁘띠 발키리",
+        "type": "minecraft:wolf",
+        "enabled": true,
+        "morph": "{Name:\"grimoireofgaia:valkyrie\",EntityData:{ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},PersistenceRequired:0b,AbsorptionAmount:0.0f,annoyed:0b,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.699999988079071d,2.0d,0.699999988079071d],UpdateBlocked:0b,friendly:0b},Scale:0.5f,ForcedSettings:0b}"
+    },
+    {
+        "name": "쁘띠 메두사",
+        "type": "minecraft:wolf",
+        "enabled": true,
+        "morph": "{Name:\"grimoireofgaia:gorgon\",EntityData:{ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},AbsorptionAmount:0.0f,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b,neutral:0b,PersistenceRequired:0b},Scale:0.5f,ForcedSettings:0b}"
+    },
+    {
+        "name": "쁘띠 아라크네",
+        "type": "minecraft:wolf",
+        "enabled": true,
+        "morph": "{Name:\"grimoireofgaia:arachne\",EntityData:{ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},AbsorptionAmount:0.0f,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,1.0999999642372131d,1.600000023841858d,1.0999999642372131d],UpdateBlocked:0b,neutral:0b,PersistenceRequired:0b},Scale:0.5f,ForcedSettings:0b}"
+    },
+    {
+        "name": "쁘띠 마녀",
+        "type": "minecraft:wolf",
+        "enabled": true,
+        "morph": "{BodyParts:[{Limb:\"rightleg\"}],Name:\"grimoireofgaia:witch\",EntityData:{MobType:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"llibrary:extendedentitydatacapability\":{},\"dsurround:speech\":{},\"lycanitesmobs:iextendedentity\":{}},neutral:0b,PersistenceRequired:0b,AbsorptionAmount:0.0f,SurgeAABB:[-0.30000001192092896d,0.0d,-0.30000001192092896d,0.30000001192092896d,1.7999999523162842d,0.30000001192092896d],UpdateBlocked:0b},Scale:0.5f,ForcedSettings:0b}"
+    },
+    {
+        "name": "",
+        "type": "minecraft:bat",
+        "enabled": true,
+        "morph": "{Name:\"fossil:fossil.ceratosaurus\",EntityData:{Hunger:50,DinoTamed:0b,OwnerDisplayName:\"\",TicksSincePlay:0,AbsorptionAmount:0.0f,Gender:0,Sitting:0b,Fleeing:0b,ForgeCaps:{\"dsurround:entityfx\":{},\"dsurround:data\":{a:0b,f:0b},\"dsurround:speech\":{},\"llibrary:extendedentitydatacapability\":{\"Fossils - Mammal Tracker\":{EmbryoProgress:0,Embryo:-1}},\"lycanitesmobs:iextendedentity\":{}},Age:1,Mood:0,UpdateBlocked:0b,ForcedAge:0,Sleeping:0b,SurgeAABB:[0.0d,0.0d,0.0d,1.5499999523162842d,1.2999999523162842d,1.5499999523162842d],TicksSlept:0,TicksSinceMate:7939,AgingDisabled:0b,Angry:0b,currentOrder:2b,OwnerUUID:\"\",TicksClimbing:0,YawRotation:1.0736804f,CathermalTimer:0,HeadRotation:1.0736804f,PersistenceRequired:0b,InLove:0,isModelized:0b,AgeTick:0,SubSpecies:0},Scale:1.0f,ForcedSettings:0b}"
+    }
+]
